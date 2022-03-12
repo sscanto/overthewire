@@ -13,4 +13,3 @@ Ho trovato la password per il livello 1
 
 ### Level1
 
-assaa
